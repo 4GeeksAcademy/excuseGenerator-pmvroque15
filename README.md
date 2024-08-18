@@ -1,4 +1,4 @@
-# Hello World with Vanilla JS
+inst# Hello World with Vanilla JS
 
 > 🇪🇸 [Spanish version of this readme is available](./README.es.md).
 
@@ -6,7 +6,7 @@ Start coding a JS/HTML/CSS website in 30 seconds by opening this template using 
 
 ## Before you begin
 
-Install the packages by typing: `npm install`.
+aInstall the packages by typing: `npm install`.
 
 
 ### How do I run my website to see live changes?  
